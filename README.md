@@ -1,6 +1,8 @@
 ## Hi there 👋 who am I?
 
-My name is Jaime, I recently graduated from the University of Plymouth with a Bachelors in Computer Science (Hons) where I obtained a first. During my degree I completed a placement year in industry at the [Plymouth Marine Laboratory](https://www.pml.ac.uk/). Over the course of this placement, I got the opportunity to work and collaborate on several datascience projects as part of the international [MONOCLE](https://www.pml.ac.uk/Research/Projects/MONOCLE) project, where my work focused specifically on creating software to operate on raspberry pi which would be distributed to in-situ locations, to decode readings live from multiple in-situ devices simultaneously.
+My name is Jaime, I recently graduated from the University of Plymouth with a Bachelors in Computer Science (Hons) where I obtained a first. During my degree I completed a placement year in industry at the [Plymouth Marine Laboratory](https://www.pml.ac.uk/). Over the course of this placement, I got the opportunity to work and collaborate on several datascience projects as part of the international [MONOCLE](https://www.pml.ac.uk/Research/Projects/MONOCLE) project, where my work focused specifically on creating software to operate on raspberry pi which would be distributed to in-situ locations, to decode readings live from multiple in-situ devices simultaneously. 
+
+NOTE: This is the Github account I used during my placement for public repositories, and I have moved my two main projects over from my university Github account to here before it was deleted.
 
 ## ✍️ What I'm learning
 
