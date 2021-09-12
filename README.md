@@ -42,8 +42,8 @@ You can find me on [LinkedIn]() or email me at jaimekb199@gmail.com.
 
 ## Fun facts about me 
 
-While at University I was the vice-president of the Ice Skating club for a year, and successfully managed the other members when the official club president all but stepped down, and was able to deliver consistent skating sessions every week, going on for more than previous years, and bringing in more money, doubling the amount left for the next year than our year started with. Since the ice skating club was the second most expensive club among all the sports clubs at the university, to be so far in the positive financially was a major achievement, and I also managed networking between other clubs and societies to increase our club awareness and create future contacts, all whilest providing events and opportunities for our members to try new things and meet new people.
+While at University I was the vice-president of the Ice Skating club for a year, and successfully managed the other members when the official club president all but offically stepped down, and was able to deliver consistent skating sessions every week by organised planning and booking ahead, which allowed us to host more skating sessions than previous years, and bring in more money, doubling the amount left for the next year than our year started with. Since the ice skating club was the second most expensive club among all the sports clubs at the university, to be so far in the positive financially was a major achievement, and I also managed networking between other clubs and societies to increase our club awareness and create future contacts, all whilest providing events and opportunities for our members to try new things and meet new people.
 
 I enjoy a variety of sports, from martial arts to table tennis, currently looking to find people and a place to learn squash 🎾
 
-I enjoy playing board games, looking to getting into D&D 🎲 
+I enjoy playing board games, excited to play some D&D 🎲 
