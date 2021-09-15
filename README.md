@@ -1,12 +1,12 @@
 ## Hi there 👋 who am I?
 
-My name is Jaime, I recently graduated from the University of Plymouth with a Bachelors in Computer Science (Hons) where I obtained a first. During my degree I completed a placement year in industry at the [Plymouth Marine Laboratory](https://www.pml.ac.uk/). Over the course of this placement, I got the opportunity to work and collaborate on several datascience projects as part of the international [MONOCLE](https://www.pml.ac.uk/Research/Projects/MONOCLE) project, where my work focused specifically on creating software to operate on raspberry pi which would be distributed to in-situ locations, to decode readings live from multiple in-situ devices simultaneously. 
+My name is Jaime, I recently graduated from the University of Plymouth with a Bachelors in Computer Science (Hons) where I obtained a first. During my degree I completed a placement year in industry at the [Plymouth Marine Laboratory](https://www.pml.ac.uk/). Over the course of this placement, I got the opportunity to work and collaborate on several datascience projects as part of the international [MONOCLE](https://www.pml.ac.uk/Research/Projects/MONOCLE) project, where my work focused specifically on creating software to operate on Raspberry Pi's which would be distributed to in-situ locations, to decode readings live from multiple in-situ devices simultaneously. 
 
 NOTE: This is the Github account I used during my placement for public repositories, and I have moved my two main projects over from my university Github account to here before it was deleted.
 
 ## ✍️ What I'm learning
 
-I'm currently interested in expanding my subject knowledge by learning new technologies such as AWS by completing the [training courses](https://www.aws.training/) and gain certification, as well as automation such as Terraform. Secondly, to improving upon my existing self taught materials such as machine learning, which was the focus of [dissertation project](https://github.com/JaimeKB/Stock-Market-Prediction-using-LSTM-NN), stockmarket forcasting using LSTMs, a type of recurrent neural networks. Thirdly, I want to refine what I learned at university such as front-end development so I can deliver clean and professional-grade technologies. Alongside this, I aim to complete personal projects in a variety of different programming languages, such as a hospital management system in Java using design patterns.
+I'm currently interested in expanding my subject knowledge by learning new technologies such as AWS by completing the [training courses](https://www.aws.training/) and gain certification, as well as automation such as Terraform. Secondly, to improve upon my existing self-taught materials such as machine learning, which was the focus of my [dissertation project](https://github.com/JaimeKB/Stock-Market-Prediction-using-LSTM-NN), a stockmarket forcasting service using LSTMs, a type of recurrent neural networks. Thirdly, I want to refine what I learned at university such as front-end development so I can deliver clean and professional-grade technologies. Alongside this, I aim to complete personal projects in a variety of different programming languages, such as a hospital management system in Java using design patterns.
 
 ## ⏩ Some of my projects
 
@@ -38,7 +38,7 @@ Done as part of a module project for full-stack development, this project acts a
 
 <!-- Actual text -->
 
-You can find me on [LinkedIn]() or email me at jaimekb199@gmail.com.
+You can find me on [LinkedIn](https://www.linkedin.com/in/jaime-kershaw-brown/) or email me at jaimekb199@gmail.com.
 
 ## Fun facts about me 
 
