@@ -6,8 +6,7 @@ NOTE: This is the Github account I used during my placement for public repositor
 
 ## ✍️ What I'm learning
 
-I'm currently interested in expanding my subject knowledge by learning new technologies such as AWS by completing the [training courses](https://www.aws.training/) and gaining certification such as the AWS Cloud Pracitioner which I recently achieved ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/52451524/141681634-6f669df3-b4fa-4fd7-bb42-539a29796f44.png)
-as well as automation such as Terraform. Secondly, to improve upon my existing self-taught materials such as machine learning, which was the focus of my [dissertation project](https://github.com/JaimeKB/Stock-Market-Prediction-using-LSTM-NN), a stockmarket forcasting service using LSTMs, a type of recurrent neural networks. Thirdly, I want to refine what I learned at university such as front-end development so I can deliver clean and professional-grade technologies. Alongside this, I aim to complete personal projects in a variety of different programming languages, such as a hospital management system in Java using design patterns.
+I'm currently interested in expanding my subject knowledge by learning new technologies such as AWS by completing the [training courses](https://www.aws.training/) and gaining certification such as the AWS Cloud Pracitioner which I recently achieved, as well as automation such as Terraform. Secondly, to improve upon my existing self-taught materials such as machine learning, which was the focus of my [dissertation project](https://github.com/JaimeKB/Stock-Market-Prediction-using-LSTM-NN), a stockmarket forcasting service using LSTMs, a type of recurrent neural networks. Thirdly, I want to refine what I learned at university such as front-end development so I can deliver clean and professional-grade technologies. Alongside this, I aim to complete personal projects in a variety of different programming languages, such as a hospital management system in Java using design patterns.
 
 ## ⏩ Some of my projects
 
@@ -33,6 +32,11 @@ Done as part of a module project for full-stack development, this project acts a
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-VB.NET-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-C_Sharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Query_Language-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Markup_Language-HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Style_sheet_Language-CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Device-Raspberry_Pi-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+## Certifications
+
+AWS Cloud Pracitioner (2021-2024) 
+![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/52451524/141681634-6f669df3-b4fa-4fd7-bb42-539a29796f44.png)
 
 
 ## 📫 How to reach me:
