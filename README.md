@@ -36,6 +36,9 @@ Done as part of a module project for full-stack development, this project acts a
 ## Certifications
 
 AWS Cloud Pracitioner (2021-2024) 
+
+
+
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/52451524/141681634-6f669df3-b4fa-4fd7-bb42-539a29796f44.png)
 
 
