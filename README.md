@@ -38,6 +38,11 @@ AWS Cloud Pracitioner (2021-2024)
 ![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/52451524/141681634-6f669df3-b4fa-4fd7-bb42-539a29796f44.png)
 
 
+ITIL 4 ® Foundation (2023-2026)
+
+![itil-4-foundation](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2370d6f6-3f01-453f-8979-8b849a752d7e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+
+
 ## 📫 How to reach me:
 
 <!-- Actual text -->
