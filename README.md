@@ -40,7 +40,7 @@ AWS Cloud Pracitioner (2021-2024)
 
 ITIL 4 ® Foundation (2023-2026)
 
-![itil-4-foundation](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2370d6f6-3f01-453f-8979-8b849a752d7e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
+![itil-4-foundation]()
 
 
 ## 📫 How to reach me:
