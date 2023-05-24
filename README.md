@@ -35,7 +35,7 @@ AWS Cloud Pracitioner (2021-2024)
 
 
 
-![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/52451524/141681634-6f669df3-b4fa-4fd7-bb42-539a29796f44.png)
+![aws-certified-cloud-practitioner](https://github.com/JaimeKB/JaimeKB/blob/main/aws-certified-cloud-practitioner.png)
 
 
 ITIL 4 ® Foundation (2023-2026)
