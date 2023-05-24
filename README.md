@@ -40,7 +40,7 @@ AWS Cloud Pracitioner (2021-2024)
 
 ITIL 4 ® Foundation (2023-2026)
 
-![itil-4-foundation]()
+![itil-4-foundation](https://github.com/JaimeKB/JaimeKB/blob/main/itil-4-foundation.png)
 
 
 ## 📫 How to reach me:
